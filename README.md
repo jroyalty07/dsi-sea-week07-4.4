@@ -35,3 +35,6 @@ That sounds kind of confusing. Let's break apart those steps real quick.
 
 #### Deliverable
 - Edit this readme. Add your url with the finished page.
+
+Yo it caches and bulk inserts, second loads are way faster!
+https://salty-reaches-92407.herokuapp.com/site/imdb/lang/tt0068646/
